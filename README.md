@@ -6,7 +6,8 @@
 **Sistema Gestionale Avanzato per l'Amministrazione e le Assegnazioni Balneari**
 
 [![Release](https://img.shields.io/github/v/release/AntonioR95/Spiaggia-Alimini-Next?style=for-the-badge&color=007af4)](https://github.com/AntonioR95/Spiaggia-Alimini-Next/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android-0078d7?style=for-the-badge&logo=windows)](https://github.com/AntonioR95/Spiaggia-Alimini-Next/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20Web-0078d7?style=for-the-badge&logo=windows)](https://github.com/AntonioR95/Spiaggia-Alimini-Next/releases)
+[![PWA](https://img.shields.io/badge/PWA-online-5a0fc7?style=for-the-badge&logo=pwa)](https://app-spiaggia-one.vercel.app)
 
 </div>
 
@@ -46,6 +47,13 @@ Il sistema combina un database locale super-veloce, sincronizzazione in tempo re
 2. Scarica il file `.apk` dalla release più recente.
 3. Consenti l'installazione da fonti sconosciute se necessario.
 4. Installa e avvia l'app.
+
+### 🌐 Web (PWA)
+
+1. Apri il browser e vai su **[app-spiaggia-one.vercel.app](https://app-spiaggia-one.vercel.app)**.
+2. Accedi con le tue credenziali.
+3. Per installare come app: tocca il menu del browser e seleziona **"Aggiungi alla schermata Home"** (Android) oppure **"Installa"** (desktop/Chrome).
+4. La PWA funziona offline una volta installata e si aggiorna automaticamente.
 
 ### 🔄 Sistema di Auto-Update
 
